@@ -1,4 +1,4 @@
-# ChatBot021
+# ChatBot by python
 CodeAlpha- Task 2 
 This is a simple rule-based chatbot built as part of the CodeAlpha Python Programming Internship (Task 4).
 The chatbot responds to common user inputs such as greetings, questions about itself, and farewells, using a set of predefined rules.
