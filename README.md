@@ -3,10 +3,10 @@ CodeAlpha- Task 2
 This is a simple rule-based chatbot built as part of the CodeAlpha Python Programming Internship (Task 4).
 The chatbot responds to common user inputs such as greetings, questions about itself, and farewells, using a set of predefined rules.
 Features
-Responds to greetings (e.g., "hello", "hi", "hey")
+Responds to greetings use mainly these (e.g., "hello", "hi", "hey")
 Replies to questions like "how are you"
 Answers questions about its name and capabilities
-Responds to "thank you" messages
+Responds to "thank you" messages 
 Ends the conversation when the user types "bye", "goodbye", "exit", or "quit"
 Provides a default response for unrecognized input
 Concepts Used
